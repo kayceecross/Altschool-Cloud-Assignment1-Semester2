@@ -1,5 +1,5 @@
-#Altschool Cloud Assignment1 by Valentine Madu
-##Assignment update
+# Altschool Cloud Assignment1 by Valentine Madu
+## Assignment update
 Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc Unless otherwise specified, you are running commands from the home directory.
 
 a.Change directory to the tests directory using absolute pathname
